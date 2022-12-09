@@ -1,0 +1,274 @@
+.log a {
+    text-decoration: none;
+}
+
+.log {
+    align-items: flex-start;
+    border: 1px none;
+    display: flex;
+  }
+
+  .log .overlap-group {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-image: url(../img/fond-1@1x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border: 5px solid;
+    border-color: #d3a17f;
+    border-radius: 20%;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+    min-height: 150px;
+    padding: 16px 23px;
+    width: 358px;
+    height:fit-content;
+  }
+
+  .log .form_title_identify {
+    align-self: center;
+    color: #353331;
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 48px;
+    text-align: center;
+    width: 276px;
+  }
+  
+  .log .label_form_email {
+    color: #353331;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 10px;
+    min-height: 23px;
+    width: 184px;
+  }
+  
+  .log .input {
+    background-color: #f2efeb;
+    border: 1px solid;
+    border-color: #353331;
+    border-radius: 67px;
+    box-shadow: inset 0px 4px 4px #00000040;
+    height: 36px;
+    width: 309px;
+  }
+  
+  .log .label_form_password {
+    color: #353331;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 9px;
+    min-height: 23px;
+    width: 205px;
+  }
+  
+  .log .flex-row {
+    align-items: center;
+    display: flex;
+    margin-top: 2px;
+    min-width: 308px;
+  }
+  
+  .log .input-1 {
+    background-color: #f2efeb;
+    border: 1px solid;
+    border-color: #353331;
+    border-radius: 67px;
+    box-shadow: inset 0px 4px 4px #00000040;
+    height: 36px;
+    width: 233px;
+  }
+  
+  .log .forgotten_password {
+    color: #353331;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-bottom: 2.0px;
+    min-height: 28px;
+    text-align: center;
+    width: 75px;
+  }
+  
+  .log .button_connexion {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    height: 50px;
+    margin-right: 1.0px;
+    margin-top: 25px;
+    min-width: 209px;
+  }
+  
+  .log .button_connexion-1 {
+    align-items: center;
+    background-color: #d3a17f;
+    border: 1px solid;
+    border-color: #353331;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    width: 209px;
+  }
+  
+  .log .button_text {
+    color: #f2efeb;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    text-align: center;
+  }
+  
+  .log .button_account_creation {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    margin-right: 1.0px;
+    margin-top: 10px;
+    min-width: 209px;
+  }
+  
+  .log .button_account_creation-1 {
+    align-items: center;
+    background-color: #f2efeb;
+    border: 1px solid;
+    border-color: #353331;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    width: 209px;
+  }
+  
+  .log .button_text-1 {
+    color: #d3a17f;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .log .form_title_name {
+    color: #353331;
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 48px;
+    text-align: center;
+    width: 276px;
+  }
+  
+  .log .button_account {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    margin-right: 1.0px;
+    margin-top: 1px;
+    min-width: 209px;
+  }
+  
+  .log .button {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    height: 50px;
+    min-width: 209px;
+  }
+  
+  .log .button_account-1 {
+    align-items: center;
+    background-color: #f2efeb;
+    border: 1px solid;
+    border-color: #353331;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    width: 209px;
+  }
+  
+  .log .button_text_2 {
+    color: #d3a17f;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .log .button_disconnexion {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    margin-right: 1.0px;
+    margin-top: 11px;
+    min-width: 209px;
+  }
+  
+  .log .button_disconnexion-1 {
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    background-color: #d3a17f;
+    border: 1px solid;
+    border-color: #353331;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4px #00000040;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px;
+    width: 209px;
+  }
+  
+  .log .button_text-3 {
+    color: #f2efeb;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    text-align: center;
+    width: fit-content;
+  }
+  
